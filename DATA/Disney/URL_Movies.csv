@@ -1,13 +1,13 @@
-﻿Movie Title,Inflation Adjusted Gross,Total Gross,Genre,MPAA Rating
-Snow White and the Seven Dwarfs,$5228953251,$184925485,Musical,G
-Pinocchio,$2188229052,$84300000,Adventure,G
-Fantasia,$2187090808,$83320000,Musical,G
-101 Dalmatians,$1621599883,$289189294,Comedy,G
-Lady and the Tramp,$1236035515,$93600000,Drama,G
-Song of the South,$1078510579,$65000000,Adventure,G
-Star Wars Ep. VII: The Force Awakens,$936662225,$936662225,Adventure,PG-13
-Cinderella,$920608730,$85000000,Drama,G
-The Jungle Book,$789612346,$141843000,Musical,Not Rated
-The Lion King,$761640898,$422780140,Adventure,G
-The Jungle Book,$452931444,$408344079,Adventure,PG
-Cinderella,$201151353,$201151353,Drama,PG
+﻿Movie Title;URL;
+Snow White and the Seven Dwarfs;https://github.com/kamiloto01/Power-BI/blob/main/DATA/Disney/Imagenes/Snow%20White%20and%20the%20Seven%20Dwarfs.jpg;
+Pinocchio;https://github.com/kamiloto01/Power-BI/blob/main/DATA/Disney/Imagenes/Pinocchio.jpg;
+Fantasia;https://github.com/kamiloto01/Power-BI/blob/main/DATA/Disney/Imagenes/Fantasia.jpg;
+101 Dalmatians;https://github.com/kamiloto01/Power-BI/blob/main/DATA/Disney/Imagenes/101%20Dalmatians.jpg;
+Lady and the Tramp;https://github.com/kamiloto01/Power-BI/blob/main/DATA/Disney/Imagenes/Lady%20and%20the%20Tramp.jpg;
+Song of the South;https://github.com/kamiloto01/Power-BI/blob/main/DATA/Disney/Imagenes/Song_of_the_South_-_Lobby_Card.jpg;
+Star Wars Ep. VII: The Force Awakens;https://github.com/kamiloto01/Power-BI/blob/main/DATA/Disney/Imagenes/Star%20Wars%20Ep.%20VII%20The%20Force%20Awakens.jpg;
+Cinderella;https://github.com/kamiloto01/Power-BI/blob/main/DATA/Disney/Imagenes/Cinderella.jpg;
+The Jungle Book;https://github.com/kamiloto01/Power-BI/blob/main/DATA/Disney/Imagenes/The_jungle_book_poster.jpg;
+The Lion King;https://github.com/kamiloto01/Power-BI/blob/main/DATA/Disney/Imagenes/The%20Lion%20King.jpg;
+The Jungle Book;https://github.com/kamiloto01/Power-BI/blob/main/DATA/Disney/Imagenes/The_jungle_book_poster.jpg;
+Cinderella;https://github.com/kamiloto01/Power-BI/blob/main/DATA/Disney/Imagenes/Cinderella.jpg;
