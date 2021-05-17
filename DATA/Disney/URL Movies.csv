@@ -1,13 +1,13 @@
-﻿Movie Title;URL;
-Snow White and the Seven Dwarfs;https://github.com/kamiloto01/Power-BI/blob/main/DATA/Disney/Imagenes/Snow%20White%20and%20the%20Seven%20Dwarfs.jpg;
-Pinocchio;https://github.com/kamiloto01/Power-BI/blob/main/DATA/Disney/Imagenes/Pinocchio.jpg;
-Fantasia;https://github.com/kamiloto01/Power-BI/blob/main/DATA/Disney/Imagenes/Fantasia.jpg;
-101 Dalmatians;https://github.com/kamiloto01/Power-BI/blob/main/DATA/Disney/Imagenes/101%20Dalmatians.jpg;
-Lady and the Tramp;https://github.com/kamiloto01/Power-BI/blob/main/DATA/Disney/Imagenes/Lady%20and%20the%20Tramp.jpg;
-Song of the South;https://github.com/kamiloto01/Power-BI/blob/main/DATA/Disney/Imagenes/Song_of_the_South_-_Lobby_Card.jpg;
-Star Wars Ep. VII: The Force Awakens;https://github.com/kamiloto01/Power-BI/blob/main/DATA/Disney/Imagenes/Star%20Wars%20Ep.%20VII%20The%20Force%20Awakens.jpg;
-Cinderella;https://github.com/kamiloto01/Power-BI/blob/main/DATA/Disney/Imagenes/Cinderella.jpg;
-The Jungle Book;https://github.com/kamiloto01/Power-BI/blob/main/DATA/Disney/Imagenes/The_jungle_book_poster.jpg;
-The Lion King;https://github.com/kamiloto01/Power-BI/blob/main/DATA/Disney/Imagenes/The%20Lion%20King.jpg;
-The Jungle Book;https://github.com/kamiloto01/Power-BI/blob/main/DATA/Disney/Imagenes/The_jungle_book_poster.jpg;
-Cinderella;https://github.com/kamiloto01/Power-BI/blob/main/DATA/Disney/Imagenes/Cinderella.jpg;
+﻿Movie Title;URL;URL2
+Snow White and the Seven Dwarfs;https://github.com/kamiloto01/Power-BI/blob/main/DATA/Disney/Imagenes/Snow%20White%20and%20the%20Seven%20Dwarfs.jpg;https://static.wikia.nocookie.net/disneyypixar/images/2/27/Snow_White_and_the_Seven_Dwarfs_%28Diamond_Edition_2009%29.jpg/revision/latest/scale-to-width-down/250?cb=20180928050032&path-prefix=es
+Pinocchio;https://github.com/kamiloto01/Power-BI/blob/main/DATA/Disney/Imagenes/Pinocchio.jpg;https://images-na.ssl-images-amazon.com/images/I/5131X6uSxhL._SX370_BO1,204,203,200_.jpg
+Fantasia;https://github.com/kamiloto01/Power-BI/blob/main/DATA/Disney/Imagenes/Fantasia.jpg;https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/46DA782146A2F0F1CF20B3C05C3449BC754D21FD4C7230A8E765A8557889085E/scale?width=1200&aspectRatio=1.78&format=jpeg
+101 Dalmatians;https://github.com/kamiloto01/Power-BI/blob/main/DATA/Disney/Imagenes/101%20Dalmatians.jpg;https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/85FD2B3D26ECDB1E00D8720AF8DAA3333ACA358300E9A36070772A298FE3EDA6/scale?width=1200&aspectRatio=1.78&format=jpeg
+Lady and the Tramp;https://github.com/kamiloto01/Power-BI/blob/main/DATA/Disney/Imagenes/Lady%20and%20the%20Tramp.jpg;https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/6873FFD01A1D2E1BD98DB69F8FCC053B72C1F1D88CEBEAA4CA0AAB15ADCEB461/scale?width=1200&aspectRatio=1.78&format=jpeg
+Song of the South;https://github.com/kamiloto01/Power-BI/blob/main/DATA/Disney/Imagenes/Song_of_the_South_-_Lobby_Card.jpg;https://upload.wikimedia.org/wikipedia/commons/7/7a/Song_of_the_South_-_Lobby_Card.jpg
+Star Wars Ep. VII: The Force Awakens;https://github.com/kamiloto01/Power-BI/blob/main/DATA/Disney/Imagenes/Star%20Wars%20Ep.%20VII%20The%20Force%20Awakens.jpg;https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/D94FD75E3FC4A3A19621A68A954136116002E2B85258A89FEFCFDD226BC88E4D/scale?width=1200&aspectRatio=1.78&format=jpeg
+Cinderella;https://github.com/kamiloto01/Power-BI/blob/main/DATA/Disney/Imagenes/Cinderella.jpg;https://images-na.ssl-images-amazon.com/images/I/91qxmqn6G-L.jpg
+The Jungle Book;https://github.com/kamiloto01/Power-BI/blob/main/DATA/Disney/Imagenes/The_jungle_book_poster.jpg;https://images-na.ssl-images-amazon.com/images/I/51qv0ish5JL.jpg
+The Lion King;https://github.com/kamiloto01/Power-BI/blob/main/DATA/Disney/Imagenes/The%20Lion%20King.jpg;https://images-na.ssl-images-amazon.com/images/I/81WZJ-y1knL.jpg
+The Jungle Book;https://github.com/kamiloto01/Power-BI/blob/main/DATA/Disney/Imagenes/The_jungle_book_poster.jpg;https://images-na.ssl-images-amazon.com/images/I/51qv0ish5JL.jpg
+Cinderella;https://github.com/kamiloto01/Power-BI/blob/main/DATA/Disney/Imagenes/Cinderella.jpg;https://images-na.ssl-images-amazon.com/images/I/91qxmqn6G-L.jpg
