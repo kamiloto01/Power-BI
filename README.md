@@ -1,8 +1,18 @@
-# Power-BI
-Power BI panel
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Aprendiendo sobre hipervínculos</title>
+</head>
+<body>
 
-Link to site: https://kamiloto01.github.io/Power-BI/
+	<h1>Hipervínculos</h1>
+	<h2>En esta lección aprenderé cómo funcionan los hipervínculos</h2>
 
-Explore este dashboard. . .
+	<p><a href="https://silicodevalley.com" target="_blank">Este enlace</a> es un hipervínculo absoluto (externo).</p>
 
-(ss)[<iframe width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiZmJjOWM1MTItZTE1Yi00OGMzLTljZjMtNjM1ZWE0MTdmNDJkIiwidCI6ImFjYTUxNjMxLTAwZmUtNDkwZC05MWFiLTE2M2VmODcyNjBlZSIsImMiOjR9" frameborder="0" allowFullScreen="true"></iframe>]
+	<p>Este es un <a href="enlace_relativo.html">hipervínculo relativo</a>. Es decir, enviamos al usuario a otra página de nuestro sitio web.</p>
+
+	<p>Envíame un email a <a href="mailto:david@sisou.com">david@sisou.com</a></p>
+</body>
+</html>
